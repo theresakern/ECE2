@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ECE2/static/css/main.569dff0b.css",
-    "main.js": "/ECE2/static/js/main.82b2991e.js",
+    "main.css": "/ECE2/static/css/main.4e4421d8.css",
+    "main.js": "/ECE2/static/js/main.1656960b.js",
     "static/media/logo.png": "/ECE2/static/media/logo.c1b28b0c5ccd02e0a74b.png",
     "static/media/baufirma.jpg": "/ECE2/static/media/baufirma.226250ab973851efe885.jpg",
     "index.html": "/ECE2/index.html",
-    "main.569dff0b.css.map": "/ECE2/static/css/main.569dff0b.css.map",
-    "main.82b2991e.js.map": "/ECE2/static/js/main.82b2991e.js.map"
+    "main.4e4421d8.css.map": "/ECE2/static/css/main.4e4421d8.css.map",
+    "main.1656960b.js.map": "/ECE2/static/js/main.1656960b.js.map"
   },
   "entrypoints": [
-    "static/css/main.569dff0b.css",
-    "static/js/main.82b2991e.js"
+    "static/css/main.4e4421d8.css",
+    "static/js/main.1656960b.js"
   ]
 }
