@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.31f4353b.css",
-    "main.js": "/static/js/main.a3dec1c2.js",
+    "main.js": "/static/js/main.682d5be3.js",
     "static/media/logo.png": "/static/media/logo.c1b28b0c5ccd02e0a74b.png",
     "static/media/baufirma.jpg": "/static/media/baufirma.226250ab973851efe885.jpg",
     "index.html": "/index.html",
     "main.31f4353b.css.map": "/static/css/main.31f4353b.css.map",
-    "main.a3dec1c2.js.map": "/static/js/main.a3dec1c2.js.map"
+    "main.682d5be3.js.map": "/static/js/main.682d5be3.js.map"
   },
   "entrypoints": [
     "static/css/main.31f4353b.css",
-    "static/js/main.a3dec1c2.js"
+    "static/js/main.682d5be3.js"
   ]
 }
