@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.20cc26e3.css",
-    "main.js": "/static/js/main.20072765.js",
+    "main.css": "/static/css/main.f99a1b85.css",
+    "main.js": "/static/js/main.10af7765.js",
+    "static/media/golf.jpg": "/static/media/golf.4a5d53258347c1c4349e.jpg",
+    "static/media/team.jpg": "/static/media/team.8c10ff3ea3577bde278e.jpg",
+    "static/media/clean.jpg": "/static/media/clean.97dbefde673bbdbc11d1.jpg",
+    "static/media/pflastern.jpg": "/static/media/pflastern.d820c53d3e49bb535c83.jpg",
+    "static/media/logo.png": "/static/media/logo.c1b28b0c5ccd02e0a74b.png",
     "static/media/smallLogo.png": "/static/media/smallLogo.0916821daa69091d92da.png",
+    "static/media/simple.jpg": "/static/media/simple.52b50ce9c5f5557d58da.jpg",
+    "static/media/erkan.jpg": "/static/media/erkan.45aaa10e228c962097b8.jpg",
     "static/media/baufirma.jpg": "/static/media/baufirma.226250ab973851efe885.jpg",
     "index.html": "/index.html",
-    "main.20cc26e3.css.map": "/static/css/main.20cc26e3.css.map",
-    "main.20072765.js.map": "/static/js/main.20072765.js.map"
+    "main.f99a1b85.css.map": "/static/css/main.f99a1b85.css.map",
+    "main.10af7765.js.map": "/static/js/main.10af7765.js.map"
   },
   "entrypoints": [
-    "static/css/main.20cc26e3.css",
-    "static/js/main.20072765.js"
+    "static/css/main.f99a1b85.css",
+    "static/js/main.10af7765.js"
   ]
 }
