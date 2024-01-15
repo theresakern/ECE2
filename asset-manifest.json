@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.48407506.css",
-    "main.js": "/static/js/main.d6ba21a0.js",
+    "main.js": "/static/js/main.30587f1c.js",
     "static/media/tiefbau.jpg": "/static/media/tiefbau.36b755aec3f1908229cd.jpg",
     "static/media/tennis.jpg": "/static/media/tennis.8f9d3ceb26fe23bbf86e.jpg",
     "static/media/city.jpg": "/static/media/city.bd3c94f87159b6695402.jpg",
@@ -16,10 +16,10 @@
     "static/media/baufirma.jpg": "/static/media/baufirma.226250ab973851efe885.jpg",
     "index.html": "/index.html",
     "main.48407506.css.map": "/static/css/main.48407506.css.map",
-    "main.d6ba21a0.js.map": "/static/js/main.d6ba21a0.js.map"
+    "main.30587f1c.js.map": "/static/js/main.30587f1c.js.map"
   },
   "entrypoints": [
     "static/css/main.48407506.css",
-    "static/js/main.d6ba21a0.js"
+    "static/js/main.30587f1c.js"
   ]
 }
